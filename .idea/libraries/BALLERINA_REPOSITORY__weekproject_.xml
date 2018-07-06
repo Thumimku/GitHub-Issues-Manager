@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="BALLERINA_REPOSITORY &lt;weekproject&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wso2" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/sivaramya" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/nipuna" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wso2" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/sivaramya" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/nipuna" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
