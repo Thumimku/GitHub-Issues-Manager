@@ -4,10 +4,10 @@ First run service.bal to initiate the service
 
 Type following command in the terminal:- 
      
-***
-`$ ballerina run service.bal`
 
-***
+* `$ ballerina run service.bal`
+
+
 
 
 If the command succeed you will see following response:- 
