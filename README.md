@@ -2,19 +2,19 @@
 
 First run service.bal to initiate the service
 
-Type following command in the terminal.
+Type following command in the terminal:-
     $ ballerina run service.bal
 
-If the command succeed you will see following response.
+If the command succeed you will see following response:-
     ballerina: initiating service(s) in 'service.bal'
     ballerina: started HTTP/WS endpoint 0.0.0.0:9090
 
 Then rub client.bal to send client request
 
-Type following command in another terminal
+Type following command in another terminal:-
     $ ballerina run client.bal
     
-If the command succeed you will see following response.
+If the command succeed you will see following response:-
     Enter Repository Owner Name:- 
     Enter Repository  Name:- 
     Enter Issue Title:- 
